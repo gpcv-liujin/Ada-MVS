@@ -70,7 +70,16 @@ The inferred results are stored in ```OUTPUT_PATH```, including depth map ```XXX
 If you find this code useful in your research, please cite:
 
 ```
-to be added.
+@article{liu_deep_2023,
+	author = {Liu, Jin and Gao, Jian and Ji, Shunping and Zeng, Chang and Zhang, Shaoyi and Gong, JianYa},
+	title = {Deep learning based multi-view stereo matching and {3D} scene reconstruction from oblique aerial images},
+	volume = {204},
+	issn = {09242716},
+	journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+	month = oct,
+	year = {2023},
+	pages = {42--60},
+}
 ```
 and 
 ```
